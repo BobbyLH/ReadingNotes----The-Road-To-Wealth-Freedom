@@ -31,4 +31,4 @@
 ---
 
 ## 导航
-1. [最宝贵的东西 —— 注意力]()
+1. [最宝贵的东西 —— 注意力](https://github.com/BobbyLH/ReadingNotes----The-Road-To-Wealth-Freedom/blob/master/%E6%9C%80%E5%AE%9D%E8%B4%B5%E7%9A%84%E4%B8%9C%E8%A5%BF%E2%80%94%E2%80%94%E6%B3%A8%E6%84%8F%E5%8A%9B.md)
