@@ -1,6 +1,6 @@
 # 读书笔记 之 《通往财富自由之路》
 
-## 阅读原著，请至得到APP或到书店购买正版专栏或数据，另外强烈建议关注并follow [李笑来](https://github.com/xiaolai) 的github账号
+## 阅读原著，请至得到APP或到书店购买正版专栏或书籍，另外强烈建议关注并follow [李笑来](https://github.com/xiaolai) 的github账号
 
 ---
 
