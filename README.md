@@ -156,3 +156,7 @@
     在激荡中寻找机会，笑来老师和你一起解读他 [十年的五本书](https://github.com/BobbyLH/articles/blob/master/%E5%8D%81%E5%B9%B4%E4%BA%94%E6%9C%AC%E4%B9%A6.md)，从《通往财富自由之路》到《让时间陪你慢慢变富》，都是让普通人超越阶层，实现财富自由的人生指南。
 
 - [相约7年后](https://github.com/BobbyLH/articles/blob/master/%E7%9B%B8%E7%BA%A6%E4%B8%83%E5%B9%B4%E5%90%8E.md)
+
+    笑来老师说：人的血液和细胞，几乎每隔七年就会全部更新换代一次；从这个角度看，每隔七年，你仿佛也 “涅槃重生”；
+    
+    七年就是一辈子，七年之后，你想成为什么样的人呢？[0.99元 听一堂课](https://github.com/BobbyLH/articles/blob/master/%E7%9B%B8%E7%BA%A6%E4%B8%83%E5%B9%B4%E5%90%8E.md)，为你7年后美好的生活，埋下第一颗种子！
