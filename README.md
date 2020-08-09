@@ -143,13 +143,13 @@
 ---
 
 ## 彩蛋
-- [定投践行群](https://github.com/BobbyLH/articles/blob/master/%E5%AE%9A%E6%8A%95%E8%B7%B5%E8%A1%8C%E7%BE%A4.md)
+- [定投践行群](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group)
 
-    2019年7月底，笑来老师着手成立了一个名为 **BOX 定投践行群**。迄今为止，社群人数已经突破4000人，而更让人惊讶的是加入这个群的入群费并不低 —— 需要支付等价于 2020.73 人民币的BTC(比特币)，除此之外，还需要群内的人提供邀请码。
+    2019年7月底，笑来老师着手成立了一个名为 **BOX 定投践行群** 的投资社群。迄今为止，社群人数已经突破4000人，在可预期的未来，社群的规模还会不断的壮大。
 
-    门槛那么高，为何依然有这么多人趋之若鹜的加入这个社群呢？很多人是阅读了 [《定投改变命运》](https://ri.firesbox.com/#/)，而后醍醐灌顶，大梦初醒，毫不犹豫的加入了践行群。而若是你也想要加入，[《定投践行群入群指南》](https://github.com/BobbyLH/articles/blob/master/%E5%AE%9A%E6%8A%95%E8%B7%B5%E8%A1%8C%E7%BE%A4.md) 可以给你一些指导。
+    **这是地球上第一个，也是唯一一个，拥有 0管理费 和 0开润(抽成) EFT基金的投资社群** —— 没错，就是 [BOX定投践行群](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group)！
 
-- [笑来写作课](https://github.com/BobbyLH/articles/blob/master/%E7%AC%91%E6%9D%A5%E5%86%99%E4%BD%9C%E8%AF%BE.md)
+- [笑来写作课](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B/%E5%86%99%E4%BD%9C%E8%AF%BE.md)
     
     **写作的本质，就是向受众表达你的感知的过程** —— 这是我学习写作课后的一个感悟。
 
@@ -157,23 +157,25 @@
 
     而且，在时间慢慢流逝的过程中，笑来老师的创作能力也在同步提升。和二十多年前，他发表在自己博客上的文字比起来，现在他出版的作品，不再是 “干巴巴的没有生气的文字描述”。一个概念或一个感知，或许你早就知晓或是观察到，但就是没办法像他一样，用一段或几段文字就表达的清清楚楚，就好像它们原本是你想要说的话一样，只不过经过了笑来老师的手，递到了你的眼前。
 
-    不过，笑来老师也说过，想要打磨好写作的能力，是需要至少一辈子的功夫的，而 [笑来写作课](https://github.com/BobbyLH/articles/blob/master/%E7%AC%91%E6%9D%A5%E5%86%99%E4%BD%9C%E8%AF%BE.md) 是一个 “启蒙” 的课堂，师傅领进门，修行在个人，有志气的你，在有灯塔指引的情况下，难道还怕会迷失航向？
+    不过，笑来老师也说过，想要打磨好写作的能力，是需要至少一辈子的功夫的，而 [笑来写作课](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B/%E5%86%99%E4%BD%9C%E8%AF%BE.md) 是一个 “启蒙” 的课堂，师傅领进门，修行在个人，有志气的你，在有灯塔指引的情况下，难道还怕会迷失航向？
 
-- [十年五本书](https://github.com/BobbyLH/articles/blob/master/%E5%8D%81%E5%B9%B4%E4%BA%94%E6%9C%AC%E4%B9%A6.md)
+- [十年五本书](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B/%E5%8D%81%E5%B9%B4%E4%BA%94%E6%9C%AC%E4%B9%A6.md)
 
-    在激荡中寻找机会，笑来老师和你一起解读他 [十年的五本书](https://github.com/BobbyLH/articles/blob/master/%E5%8D%81%E5%B9%B4%E4%BA%94%E6%9C%AC%E4%B9%A6.md)，从《通往财富自由之路》到《让时间陪你慢慢变富》，都是让普通人超越阶层，实现财富自由的人生指南。
+    在激荡中寻找机会，笑来老师和你一起解读他 [十年的五本书](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B/%E5%8D%81%E5%B9%B4%E4%BA%94%E6%9C%AC%E4%B9%A6.md)，从《通往财富自由之路》到《让时间陪你慢慢变富》，都是让普通人超越阶层，实现财富自由的人生指南。
 
-- [相约7年后](https://github.com/BobbyLH/articles/blob/master/%E7%9B%B8%E7%BA%A6%E4%B8%83%E5%B9%B4%E5%90%8E.md)
+- [相约7年后](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B/%E7%9B%B8%E7%BA%A6%E4%B8%83%E5%B9%B4%E5%90%8E.md)
 
     笑来老师说：人的血液和细胞，几乎每隔七年就会全部更新换代一次；从这个角度看，每隔七年，你仿佛也 “涅槃重生”；
     
-    七年就是一辈子，七年之后，你想成为什么样的人呢？[0.99元 听一堂课](https://github.com/BobbyLH/articles/blob/master/%E7%9B%B8%E7%BA%A6%E4%B8%83%E5%B9%B4%E5%90%8E.md)，为你7年后美好的生活，埋下第一颗种子！
+    七年就是一辈子，七年之后，你想成为什么样的人呢？[0.99元 听一堂课](https://github.com/BobbyLH/Guide-for-BOX-Regular-Investment-Group/blob/master/%E7%AC%91%E6%9D%A5%E5%85%B6%E4%BB%96%E8%AF%BE%E7%A8%8B/%E7%9B%B8%E7%BA%A6%E4%B8%83%E5%B9%B4%E5%90%8E.md)，为你7年后美好的生活，埋下第一颗种子！
 
 ## 联系我
 结交新朋友一直是一件很快乐的事情，尤其是我们之间有相同的目标和兴趣的时候。
 
 ### 微信：
+
  <img src='./assets/qrcode_wx.jpeg' alt='微信二维码' width='200'/>
 
 ### Mixin:
+
  <img src='./assets/qrcode_mixin.jpeg' alt='Mixin二维码' width='200'/>
